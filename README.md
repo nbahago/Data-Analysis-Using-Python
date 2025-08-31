@@ -1,2 +1,2 @@
 # Data-Analysis-Using-Python
-Data analysis Using R
+Data analysis using Pandas ,NumPy, Matplotlib and Seaborn
